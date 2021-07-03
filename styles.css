@@ -1,0 +1,27 @@
+body{
+    background-color: purple;
+}
+
+.audio{
+    text-align: center;
+}
+
+button:hover{
+    background: gray;
+}
+
+h2{
+    text-align: center;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+
+}
+.class{
+    padding: 5%;
+    text-align: center;
+}
